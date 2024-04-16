@@ -1,0 +1,26 @@
+body {background-color: rgb(201, 143, 96);
+}
+H1 {text-align: center;
+}
+h2{text-align: center;
+}
+h3{text-align: center;
+}
+h3{background-color: rgb(94, 52, 24);
+}
+h4{background-color: rgb(94, 52, 24);
+}
+h4{text-align: center;
+}
+h5{text-align: center;
+}
+h6{text-align: center;
+}
+h5 {border-color: black;
+    border-width: 7px;
+border-style: solid;
+}
+h6 {border-color: black;
+border-width: 7px;
+border-style: solid;
+}
